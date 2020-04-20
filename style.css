@@ -74,11 +74,20 @@ header .link a:hover {
 }
 
 .blok {
-    border: 1px solid red;
-    margin: 9px;
-    width: 480px;
+    margin: 20px;
+    width: 460px;
     float: left;
     
-    height: 200px;
-    
+}
+
+.blok img {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.blok h2 {
+    text-align: center;
 }
