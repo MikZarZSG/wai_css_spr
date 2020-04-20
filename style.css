@@ -76,8 +76,7 @@ header .link a:hover {
 .blok {
     margin: 20px;
     width: 360px;
-    float: left;
-    
+    float: left; 
 }
 
 .blok img {
@@ -92,3 +91,18 @@ header .link a:hover {
 .blok h2 {
     text-align: center;
 }
+
+.projekt {
+    margin: 20px;
+    width: 360px;
+    height: 200px;
+    border-radius: 10%;
+    float: left;
+}
+
+.p1 { background-color: red; }
+.p2 { background-color: aqua; }
+.p3 { background-color: gray; }
+.p4 { background-color: green; }
+.p5 { background-color: tomato; }
+.p6 { background-color: cornflowerblue; }
