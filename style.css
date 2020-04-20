@@ -150,12 +150,11 @@ nav ul {
 nav ul li {
     float: left;
 	width: 150px;
-	height: 40px;
-	border-right: 1px dashed white; 
+	border-right: 2px dashed white; 
 }
 
 nav ul li:first-child {
-	border-left: 1px dashed white; 
+	border-left: 2px dashed white; 
 }
 
 nav ul li a {
