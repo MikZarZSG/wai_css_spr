@@ -4,6 +4,14 @@ body {
     font-size: 16px;
 }
 
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
 header {
     width: 100%;
     background-color: #222222;
@@ -25,7 +33,6 @@ header p {
 
 header h1 {
     color: white;
-    text-align: center;
     text-transform: uppercase;
 }
 
@@ -50,15 +57,12 @@ header .link a:hover {
     background-color: #1c2eff;
 }
 
-h1 {
-    text-align: center;
-}
-
-p {
-    text-align: justify;
-}
-
 .omnie {
     padding-left: 20px;
     padding-right: 20px;
+}
+
+.umiejetnosci {
+    background-color: #222222;
+    color: white;
 }
