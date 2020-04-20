@@ -63,6 +63,22 @@ header .link a:hover {
 }
 
 .umiejetnosci {
+    padding: 1px;
     background-color: #222222;
     color: white;
+}
+
+.kontener {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.blok {
+    border: 1px solid red;
+    margin: 9px;
+    width: 480px;
+    float: left;
+    
+    height: 200px;
+    
 }
